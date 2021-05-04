@@ -34,8 +34,12 @@ contract Coin {
             
             Constructor: Function that is run directly when the contract is created.
             
-*/
-            
             Msg: Keyword that allows us to access some special variables that are available for us from the Blockchain.
             
             Require: Convenience function in solidity. It guarantees validity of conditiosn that cannot be detected before execution.
+            
+*/
+            
+
+            
+// Credits: https://www.youtube.com/watch?v=RVhmLE3sd-Y&list=PLFPZ8ai7J-iTJDENUIY40VsU_5Wmxkr7j&index=2
